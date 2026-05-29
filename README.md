@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Raveena Thakur!
 
-<!--
-**Raveena-thakur/Raveena-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💡 Interested in AI/ML, Data Science, and Web Development  
+🚀 Learning and building real-world projects using modern technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning Basics
+- MongoDB & Backend APIs
+
+---
+
+## 📌 Projects
+
+### ❤️ HeartSync AI
+AI-powered emotional support chatbot using Node.js and OpenAI/Gemini APIs.
+
+### ⚡ MongoDB Query Optimizer
+Frontend-based query optimization and performance analysis system.
+
+---
+
+## 🌱 Goals
+
+- Build impactful AI/ML projects
+- Gain internship experience
+- Improve backend and data science skills
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/raveena-thakur-4b49072ab/
+- GitHub: github.com/Raveena-thakur
