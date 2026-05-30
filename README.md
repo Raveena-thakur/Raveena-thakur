@@ -50,4 +50,4 @@ Frontend-based query optimization and performance analysis system.
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/raveena-thakur-4b49072ab/
-- GitHub: github.com/Raveena-thakur
+- GitHub: https://github.com/Raveena-thakur
